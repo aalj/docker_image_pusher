@@ -1,5 +1,1 @@
-cr2.fit2cloud.com/1panel/maxkb
-mysql:8.2.0
-yourls:1.9.2
-couchdb:3.3.3
-redis
+jellyfin/jellyfin
