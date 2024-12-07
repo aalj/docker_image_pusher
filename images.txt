@@ -1,1 +1,1 @@
-bitnami/postgresql
+fooololo/aipan-netdisk-search
