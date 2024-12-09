@@ -1,1 +1,1 @@
-postgres
+unilei/aipan-netdisk-search:latest
