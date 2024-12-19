@@ -1,2 +1,1 @@
-unilei/aipan-netdisk-search:latest
-node:20.18.0-alpine
+keking/kkfileview:4.1.0
