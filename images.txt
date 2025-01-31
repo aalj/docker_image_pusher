@@ -1,1 +1,1 @@
-jellyfin/jellyfin
+plexinc/pms-docker:latest
