@@ -1,1 +1,1 @@
-postgres:15-alpine
+anggenius/dify-plugin-daemon
