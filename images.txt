@@ -4,7 +4,7 @@ langgenius/dify-web:0.15.3
 postgres:15-alpine
 redis:6-alpine
 langgenius/dify-sandbox:0.2.10
-anggenius/dify-plugin-daemon:0.0.2-local
+anggenius/dify-plugin-daemon
 ubuntu/squid:latest
 certbot/certbot
 nginx:latest
