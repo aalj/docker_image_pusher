@@ -1,1 +1,1 @@
-bestzwei/libretv:latest
+mysql:8.4.5
