@@ -1,1 +1,1 @@
-postgres:17.4-alpine
+redis:7.4.3
