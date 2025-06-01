@@ -1,1 +1,1 @@
-openjdk:17-jdk-alpine
+tindy2013/subconverter
