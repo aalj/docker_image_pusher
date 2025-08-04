@@ -1,1 +1,2 @@
 soulter/astrbot:latest
+rockchin/langbot:latest
