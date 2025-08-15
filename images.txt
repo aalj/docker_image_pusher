@@ -1,2 +1,1 @@
-soulter/astrbot:latest
-rockchin/langbot:latest
+yisier1/npc
