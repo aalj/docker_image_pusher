@@ -1,1 +1,2 @@
-yisier1/npc
+nacos/nacos-server:v2.2.3
+seataio/seata-server:1.7.0
