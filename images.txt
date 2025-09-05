@@ -1,2 +1,2 @@
-nacos/nacos-server:v2.2.3
-seataio/seata-server:1.7.0
+snowdreamtech/frpc:0.64.0
+snowdreamtech/frps:0.64.0
