@@ -1,2 +1,2 @@
-snowdreamtech/frpc:0.64.0
-snowdreamtech/frps:0.64.0
+ghcr.io/moontechlab/lunatv:latest
+apache/kvrocks
