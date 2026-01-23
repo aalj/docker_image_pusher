@@ -1,1 +1,1 @@
-linkease/kspeeder:latest
+redis:8.4.0
