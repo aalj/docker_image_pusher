@@ -1,2 +1,1 @@
 1panel/openclaw:2026.3.8
-openresty/openresty:1.27.1.2-2-1-focal
