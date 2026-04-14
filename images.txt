@@ -1,1 +1,3 @@
-1panel/openclaw:2026.3.8
+calciumion/new-api:latest
+redis:latest
+postgres:15
