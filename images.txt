@@ -1,3 +1,2 @@
-calciumion/new-api:latest
-redis:latest
-postgres:15
+mongo:5.0
+redis:6.2
