@@ -1,1 +1,2 @@
 docker.io/grafana/grafana:10.4.1
+docker.io/grafana/promtail:3.5.1
