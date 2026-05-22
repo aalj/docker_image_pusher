@@ -1,2 +1,1 @@
-mongo:5.0
-redis:6.2
+docker.io/grafana/grafana:10.4.1
