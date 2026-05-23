@@ -1,2 +1,2 @@
-docker.io/grafana/grafana:10.4.1
-docker.io/grafana/promtail:3.5.1
+skywalking.docker.scarf.sh/apache/skywalking-oap-server:9.7.0
+skywalking.docker.scarf.sh/apache/skywalking-ui:9.7.0
