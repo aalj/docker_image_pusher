@@ -1,1 +1,1 @@
-docker.elastic.co/elasticsearch/elasticsearch:7.17.3
+ghcr.io/api7/adc:0.24.2
