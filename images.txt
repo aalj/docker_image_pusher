@@ -1,1 +1,2 @@
-gitlab/gitlab-runner:v19.1.0
+ghcr.io/karakeep-app/karakeep:release
+getmeili/meilisearch:v1.11.1
