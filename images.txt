@@ -1,2 +1,1 @@
-ghcr.io/karakeep-app/karakeep:release
-getmeili/meilisearch:v1.11.1
+ghcr.io/home-assistant/home-assistant:stable
